@@ -1,0 +1,55 @@
+/*TEST STYLES*/
+
+/*Vis border*/
+.visBorder {
+    border: 5px solid red;
+}
+
+
+/* Color Scheme */
+
+ /* Eggshell */
+.eggShellText {
+    color: #F4F1DE;
+}
+.eggShellBG {
+    background-color: #F4F1DE;
+}
+
+/*Terracotta*/
+.terraCottaText {
+    color: #E07A5F;
+}
+.terraCottaBG {
+    background-color: #E07A5F;
+}
+
+/*Independence*/
+.indepText {
+    color: #3D405B
+}
+.indepBG {
+    background-color: #3D405B;
+}
+
+/*Green Sheen*/
+.gSheenText {
+    color: #81B29A;
+}
+.gSheenBG {
+    background-color: #81B29A;
+}
+
+/*Champagne*/
+.champText {
+    color: #F2CC8F;
+}
+.champBG {
+    background-color: #F2CC8F;
+}
+
+
+/* Bootstrap Overrides */
+.list-group > li.active {
+    background-color: #81B29A;
+}
